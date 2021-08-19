@@ -1,0 +1,27 @@
+{
+    "id": "F7149450",
+    "path": "~/learning/fitbit/R/cred.R",
+    "project_path": "R/cred.R",
+    "type": "r_source",
+    "hash": "3292942717",
+    "contents": "",
+    "dirty": false,
+    "created": 1629375231127.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled2",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "10,49",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1629375302,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1629375302695,
+    "read_only": false,
+    "read_only_alternatives": []
+}

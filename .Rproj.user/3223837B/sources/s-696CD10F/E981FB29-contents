@@ -3,6 +3,8 @@ title: "Report"
 author: "JFlynn"
 date: "8/19/2021"
 output: html_document
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
@@ -17,6 +19,23 @@ knitr::opts_chunk$set(echo = FALSE,
 library(tidyverse)
 library(fitbitr)
 
+
+```
+
+
+```{r}
+
+FITBIT_KEY    <- ""
+FITBIT_SECRET <- ""
+# If you want, Default: "http://localhost:1410/"
+# FITBIT_CALLBACK <- "<your-fitbit-callback>" 
+
+```
+
+
+```{r}
+
+Sys.setenv(FITBIT_KEY = "<your-fitbit-key>", FITBIT_SECRET = "<your-firbit-secret>")
 
 ```
 

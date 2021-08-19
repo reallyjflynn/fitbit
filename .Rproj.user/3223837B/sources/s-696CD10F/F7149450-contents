@@ -1,0 +1,13 @@
+### cred.R
+
+get_key <- function() {
+        return('23BFK7')
+}
+
+
+### cred.R
+
+get_secret <- function() {
+        return('452bada1aca9703240557e1d7d283e02')
+}
+
